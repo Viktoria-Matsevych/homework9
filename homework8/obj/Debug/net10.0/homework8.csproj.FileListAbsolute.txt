@@ -1,0 +1,15 @@
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\bin\Debug\net10.0\homework8.exe
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\bin\Debug\net10.0\homework8.deps.json
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\bin\Debug\net10.0\homework8.runtimeconfig.json
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\bin\Debug\net10.0\homework8.dll
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\bin\Debug\net10.0\homework8.pdb
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.AssemblyInfoInputs.cache
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.AssemblyInfo.cs
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.csproj.CoreCompileInputs.cache
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.dll
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\refint\homework8.dll
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.pdb
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.genruntimeconfig.cache
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\ref\homework8.dll
+C:\Users\Валентина\Desktop\C#\homework8\homework8\homework8\obj\Debug\net10.0\homework8.csproj.Up2Date
